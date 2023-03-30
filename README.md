@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**KenyaAlvarez/KenyaAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    class kenya {
+        constructor() {
+            "- ⚡ Quick bio:":                    ""Mobile developer with Xamarin and Swift",
+            "- 🔭 I’m currently working on":      "Anomy project, Anomy is a project where save your passwords and generate it",
+            "- 🌱 I’m currently learning":        "Learning Swift and front-end web",
+            "- 👯 I’m looking to collaborate on": "Web and mobile projects",
+            "- 🤔 I’m looking for help with":     "Swift",
+            "- 💬 Ask me about":                  "mobile apps with xamarin or web design"
+        }
+    }
